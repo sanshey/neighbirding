@@ -9,14 +9,35 @@
 		<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
 	</head>
 	<body data-sveltekit-preload-data="hover">
+
+		<nav class="container">
+
+			<ul>
+			<li><strong> <a href="https://www.neighbirding.com">Neighbird</a> </strong></li>
+			</ul>
+		
+			<ul>
+			  <li><a href="https://www.youtube.com/@neighbirding"><img src="youtube.svg" alt="YouTube"></a></li>
+			  <li><a href="https://www.instagram.com/neighbirding/"><img src="instagram.svg" alt="Instagram"></a></li>
+			  <li><a href="https://twitter.com/neighbirding"> <img src="twitter.svg" alt="Twitter"> </a></li>
+			</ul>
+		  </nav>
+		  <div class="container">
+			<hr>
+		  </div>
+		  
+
+
 		<div style="display: contents">%sveltekit.body%</div>
+
+		
+
+		<footer class="container">
+			<hr>
+			<small>A project by <a href="http://inoldnews.com">In Old News LLC</a></small>
+		</footer>
+
 	</body>
-
-
-<footer class="container">
-	<hr>
-    <small>A project by <a href="http://inoldnews.com">In Old News LLC</a></small>
-</footer>
 
 
 </html>
@@ -25,6 +46,7 @@
 
 .box-shadow {
 	box-shadow: 12px 12px #73828C;
-}
+	}
+
 
 </style>

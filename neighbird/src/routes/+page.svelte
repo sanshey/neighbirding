@@ -2,21 +2,6 @@
 <h2> A new website</h2>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p> -->
 
-<nav class="container">
-
-    <ul>
-    <li><strong> <a href="https://www.neighbirding.com">Neighbird</a> </strong></li>
-    </ul>
-
-    <ul>
-      <li><a href="https://www.youtube.com/@neighbirding"><img src="youtube.svg" alt="YouTube"></a></li>
-      <li><a href="https://www.instagram.com/neighbirding/"><img src="instagram.svg" alt="Instagram"></a></li>
-      <li><a href="https://twitter.com/neighbirding"> <img src="twitter.svg" alt="Twitter"> </a></li>
-    </ul>
-  </nav>
-
-  
-  <hr>
 
 <main class="container">
   <section id="about"></section>
@@ -77,8 +62,12 @@
       </article>
 
       <article >
-        <p class="box-shadow" ><a href="mailto:editor@inoldnews.com"><img src="img/149028936_153184509851460_1008155791873391580_n.jpg" alt="photo of manon and sanshey">
-        </a></p>
+        <div>
+          <p class="box-shadow" ><a href="mailto:editor@inoldnews.com"><img src="img/149028936_153184509851460_1008155791873391580_n.jpg" alt="photo of manon and sanshey">
+          </a></p>
+          </div>
+        
+        
         
         <strong> <a href="mailto:editor@inoldnews.com">Commissions</a></strong>
         
