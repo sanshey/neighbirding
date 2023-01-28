@@ -2,9 +2,9 @@
 <h2> A new website</h2>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p> -->
 
-<nav class="container-fluid">
+<nav class="container">
     <ul>
-      <li><strong> <a href="https://www.neighbirding.com">Neighbird</a> </strong></li>
+    <li><strong> <a href="https://www.neighbirding.com">Neighbird</a> </strong></li>
     </ul>
     <ul>
       <li><a href="https://www.youtube.com/@neighbirding">Youtube</a></li>
@@ -16,18 +16,28 @@
   <hr>
 
 <main class="container">
-  
   <section id="about"></section>
     <hgroup>
 
-      <h1>This is a heading</h1>
-      <h2>And a little slug</h2>
+      <h1>An environment journalism project</h1>
+
+      <h2> <small>
+
+       that covers stories of how humans interact with nature. 
+       This project is managed by <a href="https://twitter.com/manonverchot">Manon Verchot</a>   and <a href="https://twitter.com/sanshey">Sanshey Biswas</a> .
+      </small>
+      </h2>
     
     </hgroup>
 
-    <p>This is paragraph. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa obcaecati cum saepe voluptatum quas? Voluptate, sit. Consequuntur in iste et esse quae reprehenderit accusantium dignissimos hic dolore, commodi facere perspiciatis? </p>
 
-    <!-- <div class="container">
+
+    <!--       
+      <p>
+      This is paragraph. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa obcaecati cum saepe voluptatum quas? Voluptate, sit. Consequuntur in iste et esse quae reprehenderit accusantium dignissimos hic dolore, commodi facere perspiciatis? 
+      </p>
+      
+      <div class="container">
 
       <img src="favicon.png" alt="background" />
 
@@ -40,28 +50,33 @@
   
     <div class="grid">
 
-      <article>
-        <p><img src="img/127739202_839251086849043_6045538471618887742_n.jpg" alt=""></p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus fuga quis eaque alias repudiandae facere eligendi harum deleniti tenetur similique dolore eos aspernatur inventore corrupti molestias distinctio, numquam quo ratione!</p>
+      <article >
+        <p> <a href="https://www.youtube.com/watch?v=qsU-GHOPIzY"><img src="img/143369537_441463780313024_4999058208382829039_n.jpg" alt="">
+        </a></p>
+        <strong>Neighbird</strong>
+        
+        <p>A multi-award winning documentary on the thriving wildife in urban neighbourhoods.
+        </p>
       </article>
 
       <article>
-
-        <p><img src="img/127260863_3615531218530766_4723419181862680163_n.jpg" alt="">
-        </p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus fuga quis eaque alias repudiandae facere eligendi harum deleniti tenetur similique dolore eos aspernatur inventore corrupti molestias distinctio, numquam quo ratione!
-        </p>
         
+        <p> <a href="https://www.youtube.com/watch?v=pZXYzzMkZl8m"><img src="img/127260863_3615531218530766_4723419181862680163_n.jpg" alt="">
+        </a></p>
+        
+        <strong>Science for All</strong>
+        
+        <p>A documentary about citizen science's contribution to conservation and our understanding of the world.
+        </p>
       </article>
 
-      <article>
-        <p>
-          <img src="img/143369537_441463780313024_4999058208382829039_n.jpg" alt="">
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus fuga quis eaque alias repudiandae facere eligendi harum deleniti tenetur similique dolore eos aspernatur inventore corrupti molestias distinctio, numquam quo ratione!
-        </p>
+      <article >
+        <p> <a href="https://www.youtube.com/watch?v=qsU-GHOPIzY"><img src="img/149028936_153184509851460_1008155791873391580_n.jpg" alt="">
+        </a></p>
+        <strong>Commissions</strong>
         
+        <p>We take on reporting projects on freelance basis. <a href="mailto:editor@inoldnews.com">Click here</a> to get in touch over email.
+        </p>
       </article>
 
     </div>
@@ -72,7 +87,7 @@
 
 <footer class="container">
   <p>
-    <small>A project by <a href="http://inoldnews.com">In Old News LLC</a> • <a href="https://github.com/picocss/examples/tree/master/company/">Source code</a></small>
+    <small>A project by <a href="http://inoldnews.com">In Old News LLC</a></small>
 
   </p>
 </footer>
