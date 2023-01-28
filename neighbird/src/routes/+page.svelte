@@ -39,8 +39,10 @@
 
       <article >
 
+        <div class="thumbnail">
         <p class="box-shadow"><a href="https://www.youtube.com/watch?v=qsU-GHOPIzY"><img src="img/143369537_441463780313024_4999058208382829039_n.jpg" alt="photo of a bird">
         </a></p>
+      </div>
 
         <strong><a href="https://www.youtube.com/watch?v=qsU-GHOPIzY">Neighbird</a></strong>
         
@@ -51,9 +53,10 @@
       </article>
 
       <article>
-        
+        <div class="thumbnail">
         <p class="box-shadow" > <a href="https://www.youtube.com/watch?v=pZXYzzMkZl8m"><img src="img/127260863_3615531218530766_4723419181862680163_n.jpg" alt="photo if a butterfly">
         </a></p>
+      </div>
         
         <strong> <a href="https://www.youtube.com/watch?v=pZXYzzMkZl8m">Science for All</a></strong>
         
@@ -61,18 +64,19 @@
         </p>
       </article>
 
-      <article >
-        <div>
+      <article>
+        <div class="thumbnail">
           <p class="box-shadow" ><a href="mailto:editor@inoldnews.com"><img src="img/149028936_153184509851460_1008155791873391580_n.jpg" alt="photo of manon and sanshey">
           </a></p>
           </div>
         
         
         
-        <strong> <a href="mailto:editor@inoldnews.com">Commissions</a></strong>
+        <strong><a href="mailto:editor@inoldnews.com">Commissions</a></strong>
         
         <p>We take on reporting projects on freelance basis. <a href="mailto:editor@inoldnews.com">Click here</a> to get in touch over email.
         </p>
+
       </article>
 
     </div>
