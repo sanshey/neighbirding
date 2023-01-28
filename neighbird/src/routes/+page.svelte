@@ -3,28 +3,32 @@
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p> -->
 
 <nav class="container">
+
     <ul>
     <li><strong> <a href="https://www.neighbirding.com">Neighbird</a> </strong></li>
     </ul>
+
     <ul>
-      <li><a href="https://www.youtube.com/@neighbirding">Youtube</a></li>
-      <li><a href="https://www.instagram.com/neighbirding/">Instagram</a></li>
-      <li><a href="https://twitter.com/neighbirding">Twitter</a></li>
+      <li><a href="https://www.youtube.com/@neighbirding"><img src="youtube.svg" alt="YouTube"></a></li>
+      <li><a href="https://www.instagram.com/neighbirding/"><img src="instagram.svg" alt="Instagram"></a></li>
+      <li><a href="https://twitter.com/neighbirding"> <img src="twitter.svg" alt="Twitter"> </a></li>
     </ul>
   </nav>
 
+  
   <hr>
 
 <main class="container">
   <section id="about"></section>
+
     <hgroup>
 
       <h1>An environment journalism project</h1>
 
-      <h2> <small>
-
+      <h2> 
+      <small>
        that covers stories of how humans interact with nature. 
-       This project is managed by <a href="https://twitter.com/manonverchot">Manon Verchot</a>   and <a href="https://twitter.com/sanshey">Sanshey Biswas</a> .
+       This project is managed by <a href="https://twitter.com/manonverchot">Manon Verchot</a>   and <a href="https://twitter.com/sanshey">Sanshey Biswas</a>.
       </small>
       </h2>
     
@@ -38,11 +42,9 @@
       </p>
       
       <div class="container">
-
       <img src="favicon.png" alt="background" />
 
       <p>
-        
         neighbird/static/favicon.png
       </p>
 
@@ -51,29 +53,34 @@
     <div class="grid">
 
       <article >
-        <p> <a href="https://www.youtube.com/watch?v=qsU-GHOPIzY"><img src="img/143369537_441463780313024_4999058208382829039_n.jpg" alt="">
+
+        <p class="box-shadow"><a href="https://www.youtube.com/watch?v=qsU-GHOPIzY"><img src="img/143369537_441463780313024_4999058208382829039_n.jpg" alt="photo of a bird">
         </a></p>
-        <strong>Neighbird</strong>
+
+        <strong><a href="https://www.youtube.com/watch?v=qsU-GHOPIzY">Neighbird</a></strong>
         
-        <p>A multi-award winning documentary on the thriving wildife in urban neighbourhoods.
+        <p>
+          A multi-award winning documentary on the thriving wildife in urban neighbourhoods.
         </p>
+
       </article>
 
       <article>
         
-        <p> <a href="https://www.youtube.com/watch?v=pZXYzzMkZl8m"><img src="img/127260863_3615531218530766_4723419181862680163_n.jpg" alt="">
+        <p class="box-shadow" > <a href="https://www.youtube.com/watch?v=pZXYzzMkZl8m"><img src="img/127260863_3615531218530766_4723419181862680163_n.jpg" alt="photo if a butterfly">
         </a></p>
         
-        <strong>Science for All</strong>
+        <strong> <a href="https://www.youtube.com/watch?v=pZXYzzMkZl8m">Science for All</a></strong>
         
         <p>A documentary about citizen science's contribution to conservation and our understanding of the world.
         </p>
       </article>
 
       <article >
-        <p> <a href="https://www.youtube.com/watch?v=qsU-GHOPIzY"><img src="img/149028936_153184509851460_1008155791873391580_n.jpg" alt="">
+        <p class="box-shadow" ><a href="https://www.youtube.com/watch?v=qsU-GHOPIzY"><img src="img/149028936_153184509851460_1008155791873391580_n.jpg" alt="photo of manon and sanshey">
         </a></p>
-        <strong>Commissions</strong>
+        
+        <strong> <a href="https://www.youtube.com/watch?v=qsU-GHOPIzY">Commissions</a></strong>
         
         <p>We take on reporting projects on freelance basis. <a href="mailto:editor@inoldnews.com">Click here</a> to get in touch over email.
         </p>
