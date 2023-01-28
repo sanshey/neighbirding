@@ -90,12 +90,4 @@
 
 </main>
 
-<hr>
-
-<footer class="container">
-  <p>
-    <small>A project by <a href="http://inoldnews.com">In Old News LLC</a></small>
-
-  </p>
-</footer>
 
