@@ -77,10 +77,10 @@
       </article>
 
       <article >
-        <p class="box-shadow" ><a href="https://www.youtube.com/watch?v=qsU-GHOPIzY"><img src="img/149028936_153184509851460_1008155791873391580_n.jpg" alt="photo of manon and sanshey">
+        <p class="box-shadow" ><a href="mailto:editor@inoldnews.com"><img src="img/149028936_153184509851460_1008155791873391580_n.jpg" alt="photo of manon and sanshey">
         </a></p>
         
-        <strong> <a href="https://www.youtube.com/watch?v=qsU-GHOPIzY">Commissions</a></strong>
+        <strong> <a href="mailto:editor@inoldnews.com">Commissions</a></strong>
         
         <p>We take on reporting projects on freelance basis. <a href="mailto:editor@inoldnews.com">Click here</a> to get in touch over email.
         </p>
